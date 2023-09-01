@@ -1,3 +1,3 @@
-# POKEDEX API
+# POKEDEX API - Dio.me
 
-TESTE DE MODIFICAÇÃO
+Esse é um projeto utilizando conceitos de protocolo HTTP, e claro Pokemons !, atraves da api (  https://pokeapi.co/ ). 
